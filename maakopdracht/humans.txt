@@ -1,0 +1,38 @@
+/* TEAM */
+  <wechr.com>: Marcel Pos
+  Site: http://www.wechr.com
+  Twitter: http://twitter.com/wechr
+  Location: Holland
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: Textmate
+
+
+
+           .              .            M.          ...............              
+        .  MMMMMMMMMMMMMMMMM.      . DMMM        . MMMMMMMMMMMMMMMM$.           
+       ..~MMMMMMMMMMMMMMMMMMM. . .. MMMMMMM.     MMMMMMMMMMMMMMMMMMMM..         
+      . MMMMDMMMMM. .    8MMMMM.  MMMMMMMMMM=..~MMMM.      MMMMMMMMMMMM         
+   . .MMMMM   7MMMMM.      MMMMM~MMMMM .MMMMMMMMMMM    . ,MMMMMM  .MMMMM..      
+   ..MMMMN .  ..MMMMM..   ..OMMMMMMMM .. =MMMMMMM .    .MMMMMM8. .. ,MMMMM      
+    MMMMMM.     . MMMMM       MMMMM..     .MMMM$.    .,MMMMMM.     .MMMMMM..    
+   ...MMMMM8 .     MMMMM.      ,MM.      MMMMM      .MMMMMM..    ..MMMMMM       
+       8MMMMM.      .MMMMM.     .      ZMMMMI.     8MMMMMM.     .MMMMMM         
+       . MMMMMD       MMMMMI..       .MMMMM.      MMMMMM,.     ~MMMMM+.         
+          8MMMMM  .     MMMMM      .MMMMM.    . 8MMMMMM .   . MMMMMM            
+           .MMMMMM      .?MMMM7 . .MMMMM    .. MMMMMM     ..=MMMMM?             
+            .,MMMMM:...   .MMMMM MMMMM.    . MMMMMMZ      .MMMMMM               
+               MMMMMM       IMMMMMMMI..   .:MMMMMM ..    NMMMMM                 
+               ..MMMMM~.    . MMMMM.     .MMMMMM$.     .MMMMMN..                
+                 .MMMMMM      . M?.     :MMMMMM       MMMMMM..                  
+                  ..MMMMMM..           MMMMMM. .    .MMMMMN                     
+                    .ZMMMMM.         NMMMMMM.     .MMMMMM                       
+                     . MMMMMM .  .. MMMMMM..    .?MMMMM=.                       
+                        $MMMMM. . MMMMMMMMM  ...MMMMMM.                         
+                         .MMMMMM:MMMMMMMMMMMM.?MMMMM=                           
+                        ....MMMMMMMMMM  ~MMMMMMMMMM                             
+                            .MMMMMMMZ    .MMMMMMM                               
+                             ..MMMM       .~MMMD.                               
+                              . M$          .M.                                
