@@ -17,22 +17,22 @@
 
 	<link rel="stylesheet" href="css/style.css">
 
-	<script src="js/libs/modernizr-2.5.3.min.js"></script>
+	<script src="js/libs/modernizr-2.6.2.min.js"></script>
 </head>
 
 <body>
 	
 	<header role="banner">
 		<hgroup>
-			<h1>BLOG</h1>
-			<h2>Filled with blog items and such and such</h2>
+			<h1>Untitled magazine</h1>
+			<h2>Filled with unrelated news and the lot</h2>
 		</hgroup>
 	
 		<nav>
 			<ul>
 				<li><a href="#">Home</a></li>
-				<li><a href="#">Item 2</a></li>
-				<li><a href="#">Item 3</a></li>
+				<li><a href="#">Archive</a></li>
+				<li><a href="#">About us</a></li>
 			</ul>
 		</nav>
 		
@@ -42,14 +42,17 @@
 		</nav>
 	</header>
 
-	<div role="main">
+	<section role="main">
 		<article>
 			<header>
 				<h3><a href="#">Life found deep below Antarctic ice</a></h3>
-				<p>U.S. team drills through half-mile-thick sheet of ice to turn up cells</p>
-				<p>by Janet Raloff</p>
-				<time datetime="2013-02-10">2nd February, 2013</time>
+				<p class="tagline"><strong>U.S. team drills through half-mile-thick sheet of ice to turn up cells</strong></p>
 			</header>
+
+			<footer>
+				<p class="author"><em>by Janet Raloff</em></p>
+				<time datetime="2013-02-10">2nd February, 2013</time>
+			</footer>
 			
 			<aside>
 				<ul>
@@ -59,9 +62,9 @@
 				</ul>
 			</aside>
 			
-			<div>
+			<div class="innerContent">
 			
-			<p>
+			 <p>
 				Cells containing DNA have emerged as the first evidence of life in a subglacial lake in West Antarctica. On January 28, a U.S. research team retrieved water from Lake Whillans, which sits 800 meters below the ice surface. The water hosted a surprising bounty of living cells.
 			</p>
 
@@ -109,6 +112,7 @@
 				By January 31, the new 30-centimeter borehole down to Lake Whillans was beginning to freeze shut. So Tulacyk’s group began lowering instruments down the hole one last time. This package will freeze in place until the researchers can return.
 			</p>
 			
+			<!-- end innerContent -->
 			</div>
 			
 			<footer>
@@ -127,8 +131,36 @@
 		
 		<!-- end of article -->			
 		</article>
-	<!-- end of main content div -->
-	</div>
+		
+		<aside class="comments">
+			
+			<h4>Comments (4)</h4>
+			
+			<article>
+				<h5>Great article</h5>
+				<p>Thoughts and thoughts and thoughts</p>
+			</article>	
+			
+			<article>
+				<h5>Great article</h5>
+				<p>Thoughts and thoughts and thoughts</p>
+			</article>	
+
+			<article>
+				<h5>Great article</h5>
+				<p>Thoughts and thoughts and thoughts</p>
+			</article>	
+
+			<article>
+				<h5>Great article</h5>
+				<p>Thoughts and thoughts and thoughts</p>
+			</article>	
+			
+		<!-- end of comments -->	
+		</aside>
+		
+	<!-- end of main -->
+	</section>
 	
 	<aside role="complementary">
 		<h3>Sidebar</h3>
